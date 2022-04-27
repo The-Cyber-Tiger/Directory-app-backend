@@ -1,5 +1,7 @@
-import { config } from '../config/config'
-import { User } from '../resources/user/user-model'
+// import { config } from '../config/config'
+// import { User } from '../resources/user/user-model'
+import { config } from 'config/config'
+import { User } from 'resources/user/user-model'
 import jwt from 'jsonwebtoken'
 
 // Definimos la función para crear un nuevo token

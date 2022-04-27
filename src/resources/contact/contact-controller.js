@@ -1,4 +1,6 @@
-import { crudControllers } from '../../utils/crud'
+// import { crudControllers } from '../../utils/crud'
+import { crudControllers } from 'utils/crud'
+
 import { Contact } from './contact-model'
 
 // Llamamos a las funciones del CRUD y le pasamos el modelo de Contacto.
